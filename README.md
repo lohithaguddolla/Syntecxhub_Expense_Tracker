@@ -1,1 +1,5 @@
 # Syntecxhub_Expense_Tracker
+
+*NAME*: GUDDOLLA LOHITHA
+
+*DOMAIN*: WEB DEVELOPMENT
